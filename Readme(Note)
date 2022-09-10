@@ -1,0 +1,8 @@
+In this Assignment I used Selenium HybridFramework with POM design pattern
+
+Java as a Programming language, TestNG, Maven project, log4j,Test Suite
+
+I used Dependencies of Apache POI(version 3.17), Selenium(Version 4.3.0),
+ TestNG(version6.8), log4j(1.2.6), log4j-core(version 2.16.0)
+ commons-io(version 2.11.0)
+ 
